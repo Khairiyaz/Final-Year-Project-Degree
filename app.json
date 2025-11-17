@@ -3,7 +3,7 @@
     "name": "KyzaStore",
     "slug": "KyzaStore",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
